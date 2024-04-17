@@ -36,8 +36,6 @@ Our Caresure Health Insurance Platform revolutionizes the traditional claim proc
 - ![image](https://github.com/saatvik-29/devtry/assets/121422100/c049aee1-c532-4d46-a9a7-8e3f05b8ee1d)
 - ![image](https://github.com/saatvik-29/devtry/assets/121422100/72d32763-3997-450f-8a50-e97d50b6eb94)
 
-
-
 ---
 
-For more information, installation guides, and usage instructions, please refer to our documentation. Join us in redefining healthcare insurance claims with transparency, efficiency, and security at its core.
+Join us in redefining healthcare insurance claims with transparency, efficiency, and security at its core.
